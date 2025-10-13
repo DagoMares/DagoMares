@@ -22,6 +22,8 @@ Check out my repositories to explore code, demos, and documentation.
 I’m open to collaborations, data science roles and research.  
 Feel free to drop me a message!
 
+[![My Skills](https://skillicons.dev/icons?i=py,r,latex,matlab)](https://skillicons.dev)
+
 ---
 
 # Hola 👋  

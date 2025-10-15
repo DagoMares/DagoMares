@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 I’m **Dagoberto Raziel Mares Rincón**, an Applied Mathematics graduate currently pursuing my MSc, passionate about data science, research, and education.  
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DagoMares)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 🔍 About Me  
 - Six months of university teaching experience in **Algebra, Trigonometry**, and **Biophysics** — mentoring students in theory, problem solving, and research methods.  

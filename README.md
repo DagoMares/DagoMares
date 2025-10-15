@@ -1,7 +1,7 @@
 ## Hey 👋, This is Dagoberto Raziel Mares Rincón
 
 [![Gmail Badge](https://img.shields.io/badge/-dagobertomares0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dagobertomares0@gmail.com)](mailto:dagobertomares0@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-dagobertomares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagoberto-mares/)](https://www.linkedin.com/in/dagober-tomares/)
+[![Linkedin Badge](https://img.shields.io/badge/-dagobertomares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagoberto-mares/)](https://www.linkedin.com/in/dagoberto-mares/)
  [![Github Badge](https://img.shields.io/badge/-https://github.com/DagoMares-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/DagoMares/)](https://www.github.com/https://github.com/DagoMares/) <p align='left'>- Six months of university teaching experience in **Algebra, Trigonometry**, and **Biophysics** — mentoring students in theory, problem solving, and research methods.  
 - Research background in statistical modeling, spectroscopy, and astronomical data with publications and presentations, including:  
   - *“Statistical Classification and an Optimized Red-Sequence Technique for the Determination of Galaxy Clusters”* (MDPI)

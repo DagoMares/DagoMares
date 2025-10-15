@@ -41,3 +41,17 @@ Feel free to drop me a message!
 [![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DagoMares&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/DagoMares/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DagoMares&layout=compact)](https://github.com/https://github.com/DagoMares/github-readme-stats)
 
+
+
+
+
+
+## Hey 👋, 
+[![Linkedin Badge](https://img.shields.io/badge/-dagobertomares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagoberto-mares/)](https://www.linkedin.com/in/dagober-tomares/)
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=DagoMares alt=DagoMares /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=DagoMares&show_icons=true&include_all_commits=true)](https://github.com/DagoMares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DagoMares&layout=compact)](https://github.com/DagoMares/github-readme-stats)
+
+

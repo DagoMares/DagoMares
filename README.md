@@ -1,6 +1,7 @@
 # Hi there 👋  
 
 I’m **Dagoberto Raziel Mares Rincón**, an Applied Mathematics graduate currently pursuing my MSc, passionate about data science, research, and education.  
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 🔍 About Me  
 - Six months of university teaching experience in **Algebra, Trigonometry**, and **Biophysics** — mentoring students in theory, problem solving, and research methods.  
@@ -8,7 +9,8 @@ I’m **Dagoberto Raziel Mares Rincón**, an Applied Mathematics graduate curren
   - *“Statistical Classification and an Optimized Red-Sequence Technique for the Determination of Galaxy Clusters”* (MDPI)
   - *“A Discrete Model to Solve a Bifractional Dissipative Sine-Gordon Equation”* (MDPI)
   - Speaker at **CMMSE 2025**, Cádiz, Spain  
-- Strong skills in **Python**, **R**, **MATLAB**, **SQL**, data cleaning, hypothesis testing, visualization and dashboard design  
+- Strong skills in **Python**, **R**, **MATLAB**, **SQL**, data cleaning, hypothesis testing, visualization and dashboard design
+- [![My Skills](https://skillicons.dev/icons?i=py,r,latex,matlab)](https://skillicons.dev)
 - Natural collaborator with a mindset for growth: always learning, curious, proactive, and driven by impact  
 
 ## 🚀 Projects & Highlights  
@@ -22,7 +24,6 @@ Check out my repositories to explore code, demos, and documentation.
 I’m open to collaborations, data science roles and research.  
 Feel free to drop me a message!
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,latex,matlab)](https://skillicons.dev)
 
 ---
 

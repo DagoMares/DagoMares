@@ -25,30 +25,19 @@ I’m open to collaborations, data science roles and research.
 Feel free to drop me a message!
 
 
----
-
-# Hola 👋  
-
-Soy **Dagoberto Raziel Mares Rincón**, licenciado en Matemáticas Aplicadas y actualmente cursando la maestría, apasionado por el análisis de datos, la investigación y la educación.  
-
-## 🔍 Acerca de mí  
-- Seis meses de experiencia docente universitaria impartiendo **Álgebra, Trigonometría** y **Biofísica**, guiando estudiantes en teoría, resolución de problemas y proyectos de investigación.  
-- Trayectoria investigadora en modelado estadístico, espectroscopía y datos astronómicos. Publicaciones y ponencias destacadas, como:  
+## Hey 👋, This is Dagoberto Raziel Mares Rincón
+[![Gmail Badge](https://img.shields.io/badge/-dagobertomares0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dagobertomares0@gmail.com)](mailto:dagobertomares0@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Dagoberto Mares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dagoberto Mares/)](https://www.linkedin.com/in/Dagoberto Mares/) [![Github Badge](https://img.shields.io/badge/-https://github.com/DagoMares-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/DagoMares/)](https://www.github.com/https://github.com/DagoMares/) [![Twitter Badge](https://img.shields.io/badge/-dagobertomares0@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/dagobertomares0@gmail.com/)](https://www.twitter.com/dagobertomares0@gmail.com/) <p align='left'>- Six months of university teaching experience in **Algebra, Trigonometry**, and **Biophysics** — mentoring students in theory, problem solving, and research methods.  
+- Research background in statistical modeling, spectroscopy, and astronomical data with publications and presentations, including:  
   - *“Statistical Classification and an Optimized Red-Sequence Technique for the Determination of Galaxy Clusters”* (MDPI)
   - *“A Discrete Model to Solve a Bifractional Dissipative Sine-Gordon Equation”* (MDPI)
-  - Ponente en **CMMSE 2025** en Cádiz, España  
-- Competencia técnica en **Python**, **R**, **MATLAB**, **SQL**, limpieza de datos, pruebas de hipótesis, visualización y creación de dashboards  
-- Persona colaborativa y orientada al crecimiento: curiosidad constante, proactividad y motivado por generar impacto  
+  - Speaker at **CMMSE 2025**, Cádiz, Spain  
+- Strong skills in **Python**, **R**, **MATLAB**, **SQL**, data cleaning, hypothesis testing, visualization and dashboard design
+- [![My Skills](https://skillicons.dev/icons?i=py,r,latex,matlab)](https://skillicons.dev)
+- Natural collaborator with a mindset for growth: always learning, curious, proactive, and driven by impact </p><p align='left'> You can view my resume <a href='https://1drv.ms/b/c/cabe42674c38000d/EZwFSD-sFYBMjrq-sP8BXRYB59S63q2dP-llWL1OrRxDfw?e=Dmk2mq ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/DagoMares alt=https://github.com/DagoMares /> </p>
 
-## 🚀 Proyectos destacados  
-- **Vehicle Data Visualization App** – desarrollador principal; app web interactiva con filtros y visualización de métricas clave  
-- **Galaxy Cluster Classification** – modelo no supervisado de clasificaciones de cúmulos galácticos usando mezclas gaussianas y distancia de Mahalanobis  
-- **Modelado espectroscópico** – ajuste de datos e implementación de simulaciones en contextos experimentales y teóricos  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DagoMares&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/DagoMares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DagoMares&layout=compact)](https://github.com/https://github.com/DagoMares/github-readme-stats)
 
-Explora mis repositorios para ver el código, demos y documentación completa.  
-
-## 📬 Conectemos  
-Estoy abierto a colaboraciones, roles en ciencia de datos, proyectos de investigación y educación.  
-¡Envíame un mensaje sin dudar!
-
----

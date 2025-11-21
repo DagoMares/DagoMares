@@ -9,7 +9,7 @@
   - Speaker at **CMMSE 2025**, Cádiz, Spain  
 - Strong skills in **Python**, **R**, **Latex** , **MATLAB**, **SQL**, data cleaning, hypothesis testing, visualization and dashboard design
 - [![My Skills](https://skillicons.dev/icons?i=py,r,latex,matlab,sqlite,ipynb)](https://skillicons.dev)
-- Natural collaborator with a mindset for growth: always learning, curious, proactive, and driven by impact </p><p align='left'> You can view my resume <a href='https://1drv.ms/b/c/cabe42674c38000d/EZwFSD-sFYBMjrq-sP8BXRYB59S63q2dP-llWL1OrRxDfw?e=Dmk2mq ' target=_blank><u>here</u>.</a></p>
+- Natural collaborator with a mindset for growth: always learning, curious, proactive, and driven by impact </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/12zmqrFkYA51HIMvdgxUlGTHzXSRYcF8C/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DagoMares alt=DagoMares /> </p>
 

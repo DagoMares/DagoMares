@@ -74,7 +74,6 @@ I am a **Data Analyst** specializing in **Business Intelligence** with a robust 
 *   **English**: B2 - Professional Working Proficiency
 *   **French**: B1 - Intermediate
 
-
 ---
 
 ### 📬 Let’s Connect

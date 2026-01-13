@@ -74,18 +74,6 @@ I am a **Data Analyst** specializing in **Business Intelligence** with a robust 
 *   **English**: B2 - Professional Working Proficiency
 *   **French**: B1 - Intermediate
 
----
-
-### 📊 GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DagoMares&color=blue" alt="DagoMares" /> </p>
-
-<div align="center">
-  <a href="https://github.com/DagoMares">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DagoMares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagoMares&layout=compact&theme=radical"/>
-  </a>
-</div>
 
 ---
 
